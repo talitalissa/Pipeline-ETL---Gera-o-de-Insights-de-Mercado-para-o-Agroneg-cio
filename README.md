@@ -1,0 +1,1 @@
+# Pipeline-ETL---Gera-o-de-Insights-de-Mercado-para-o-Agroneg-cio
