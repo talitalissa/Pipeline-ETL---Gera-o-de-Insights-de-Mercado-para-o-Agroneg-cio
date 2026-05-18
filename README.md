@@ -1,5 +1,3 @@
-# Pipeline-ETL---Gera-o-de-Insights-de-Mercado-para-o-Agroneg-cio
-
 # Pipeline ETL - Geração de Insights de Mercado para o Agronegócio 🌾📈
 
 Este repositório contém a resolução do desafio de código focado na construção de um pipeline **ETL (Extração, Transformação e Carregamento)** utilizando **Python** e **Pandas** dentro do ambiente **Google Colab**. 
